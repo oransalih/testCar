@@ -1,0 +1,39 @@
+{
+	"id": "a03ae591-2d3a-6c6e-3c79-57f387f6db36",
+	"name": "Salih",
+	"description": "",
+	"order": [
+		"b6b4598a-245b-f1ae-6aea-3eea7a238d3f"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1604357098840,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "b6b4598a-245b-f1ae-6aea-3eea7a238d3f",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost:8080/rest/getCarType",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "a03ae591-2d3a-6c6e-3c79-57f387f6db36",
+			"data": [],
+			"dataMode": "raw",
+			"name": "CarType",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1604357100364,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "cubo"
+		}
+	]
+}
