@@ -1,0 +1,6 @@
+com/example/demo/CarController.class
+com/example/demo/DemoApplication.class
+com/example/demo/model/Hatchback.class
+com/example/demo/model/Sedan.class
+com/example/demo/model/Cabrio.class
+com/example/demo/model/Car.class
